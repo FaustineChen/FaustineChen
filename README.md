@@ -3,7 +3,7 @@
 ## About Me
 🎓 MAS-CS (formerly MCIT) @ UPenn  
 🔍 Interested in backend development, systems programming, and data analytics  
-💼 Prior experience in corporate finance and macroeconomic research  
+🌱 Prior experience in corporate finance and macroeconomic research  
 🔧 Currently learning applied AI engineering and building backend-oriented projects  
 
 
