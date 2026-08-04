@@ -20,6 +20,10 @@
 **Tech Stack:** C++, jtreads, Socket Programming  
 Built a multi-threaded HTTP server using a thread pool architecture to handle concurrent client connections over sockets. Implemented request parsing, connection lifecycle management, and synchronization mechanisms to ensure safe concurrency and avoid memory leaks.
 
+### VibeFinder – Personalized Music Recommendation System
+**Tech Stack:** Python, RAG, LLM Integration
+VibeFinder is a personalized music recommendation system that combines rule-based recommendation with LLM-powered explanations. The system balances recommendation accuracy and diversity through a two-stage filter-and-rank pipeline, adapts recommendations based on user feedback within each session, and generates grounded explanations using retrieval-augmented generation (RAG) with built-in guardrails and graceful fallbacks.
+
 ### E-Commerce Analytics Dashboard
 **Tech Stack:** JavaScript, React.js, PostgreSQL, AWS RDS, AWS EC2  
 Developed an interactive full-stack dashboard using 100K+ e-commerce records, with ETL pipelines for data cleaning, transformation, and database integration. Built KPI visualizations for sales trends, delivery performance, and customer satisfaction, and optimized SQL queries for faster data exploration.
