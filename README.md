@@ -16,6 +16,11 @@
 
 
 ## Projects
+
+### FedSignal – Federal Reserve Document Analysis Platform
+**Tech Stack:** Python, FastAPI, PostgreSQL, Docker Compose
+Built an asynchronous Federal Reserve document-processing platform using a PostgreSQL-backed job queue and background worker for PDF extraction, cleaning, chunking, and keyword occurrence detection. Exposed REST APIs for structured search and aggregated summaries, and containerized the API, database, and worker as separate Docker Compose services.
+
 ### Multi-Threaded HTTP Server
 **Tech Stack:** C++, jtreads, Socket Programming  
 Built a multi-threaded HTTP server using a thread pool architecture to handle concurrent client connections over sockets. Implemented request parsing, connection lifecycle management, and synchronization mechanisms to ensure safe concurrency and avoid memory leaks.
